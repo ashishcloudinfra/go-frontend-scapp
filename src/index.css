@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+
+@config '../tailwind.config.js';
+
+@utility scale-light {
+  @apply hover:scale-105 transform transition duration-500 cursor-pointer;
+}
+
+@layer utilities {
+  body {
+    font-family: 'Lexend', 'Roboto', 'Raleway', 'Nunito';
+  }
+
+  .receipt {
+    width: 900px;
+  }
+}

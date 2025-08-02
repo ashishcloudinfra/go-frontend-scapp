@@ -1,0 +1,990 @@
+[
+  {
+  "symbol": "NIFTYBEES",
+  "name": "NIPINDETFNIFTYBEES"
+  },
+  {
+  "symbol": "JUNIORBEES",
+  "name": "NIPINDETFJUNIORBEES"
+  },
+  {
+  "symbol": "LIQUIDBEES",
+  "name": "NIPINDETFLIQUIDBEES"
+  },
+  {
+  "symbol": "BANKBEES",
+  "name": "NIPINDETFBANKBEES"
+  },
+  {
+  "symbol": "GOLDBEES",
+  "name": "NIPINDETFGOLDBEES"
+  },
+  {
+  "symbol": "GOLDSHARE",
+  "name": "UTIMutualFund-UTIGol"
+  },
+  {
+  "symbol": "GOLD1",
+  "name": "KotakMutualFund-Gold"
+  },
+  {
+  "symbol": "PSUBNKBEES",
+  "name": "NIPINDETFPSUBANKBEES"
+  },
+  {
+  "symbol": "PSUBANK",
+  "name": "KotakMahindraMutualFun"
+  },
+  {
+  "symbol": "QGOLDHALF",
+  "name": "QuantumGoldFund-Exchan"
+  },
+  {
+  "symbol": "QNIFTY",
+  "name": "QuantumNiftyETF"
+  },
+  {
+  "symbol": "SHARIABEES",
+  "name": "NIPINDETFSHARIAHBEES"
+  },
+  {
+  "symbol": "SETFGOLD",
+  "name": "SBI-ETFGold"
+  },
+  {
+  "symbol": "NIFTY1",
+  "name": "KotakNiftyETF"
+  },
+  {
+  "symbol": "HNGSNGBEES",
+  "name": "NIPINDETFHANGSENGBEES"
+  },
+  {
+  "symbol": "IVZINGOLD",
+  "name": "InvescoIndiaGoldETF"
+  },
+  {
+  "symbol": "MOM50",
+  "name": "MotilalOswalM50ETF"
+  },
+  {
+  "symbol": "HDFCGOLD",
+  "name": "HDFCGoldETF"
+  },
+  {
+  "symbol": "GOLDIETF",
+  "name": "ICICIPrudGoldETF"
+  },
+  {
+  "symbol": "INFRABEES",
+  "name": "NIPINDETFINFRABEES"
+  },
+  {
+  "symbol": "AXISGOLD",
+  "name": "AxisMF-AxisGoldETF"
+  },
+  {
+  "symbol": "MOM100",
+  "name": "MotilalOsMidcap100ETF"
+  },
+  {
+  "symbol": "MON100",
+  "name": "MotilalOsNASDAQ100ETF"
+  },
+  {
+  "symbol": "BSLGOLDETF",
+  "name": "ABSLGoldETF-GO"
+  },
+  {
+  "symbol": "IVZINNIFTY",
+  "name": "InvescoMF-NiftyETF"
+  },
+  {
+  "symbol": "BSLNIFTY",
+  "name": "ABSLNiftyETF-GO"
+  },
+  {
+  "symbol": "LICMFGOLD",
+  "name": "LICMF�LICGoldETF"
+  },
+  {
+  "symbol": "NIFTYIETF",
+  "name": "ICICIPruNiftyETF"
+  },
+  {
+  "symbol": "NIF100BEES",
+  "name": "NIPINDETFNIFTY100"
+  },
+  {
+  "symbol": "NIF100IETF",
+  "name": "ICICIPruNifty100ETF"
+  },
+  {
+  "symbol": "CPSEETF",
+  "name": "CPSEETF"
+  },
+  {
+  "symbol": "CONSUMBEES",
+  "name": "NIPINDETFCONSUMPTION"
+  },
+  {
+  "symbol": "DIVOPPBEES",
+  "name": "NIPINDETFDIVOPP"
+  },
+  {
+  "symbol": "SENSEXIETF",
+  "name": "ICICIPruSensexETF"
+  },
+  {
+  "symbol": "BANKNIFTY1",
+  "name": "KOTAKMAMC-KOTAKBKETF"
+  },
+  {
+  "symbol": "LICNETFGSC",
+  "name": "LICNAMC-LICNMFET"
+  },
+  {
+  "symbol": "SETFNIFBK",
+  "name": "SBI-ETFNiftyBank"
+  },
+  {
+  "symbol": "SETFNN50",
+  "name": "SBI-ETFNiftyNext50"
+  },
+  {
+  "symbol": "NV20BEES",
+  "name": "NIPINDETFETFNV20"
+  },
+  {
+  "symbol": "SETFNIF50",
+  "name": "SBI-ETFNifty50"
+  },
+  {
+  "symbol": "UTINIFTETF",
+  "name": "UTIAMC-UTINIFTETF"
+  },
+  {
+  "symbol": "UTISENSETF",
+  "name": "UTIAMC-UTISENSETF"
+  },
+  {
+  "symbol": "LICNETFN50",
+  "name": "LICNAMC-LICNFENGP"
+  },
+  {
+  "symbol": "LICNETFSEN",
+  "name": "LICNAMC-LICNFESGP"
+  },
+  {
+  "symbol": "NV20",
+  "name": "KOTAKMAMC-KTKNV20ETF"
+  },
+  {
+  "symbol": "HDFCNIFTY",
+  "name": "HDFCAMC-HDFCNIFTY"
+  },
+  {
+  "symbol": "HDFCSENSEX",
+  "name": "HDFCAMC-HDFCSENSEX"
+  },
+  {
+  "symbol": "EBANK",
+  "name": "EdelweissETF-NiftyBank"
+  },
+  {
+  "symbol": "LICNFNHGP",
+  "name": "LICNAMC-LICNFNHGP"
+  },
+  {
+  "symbol": "SETF10GILT",
+  "name": "SBIAMC-SETF10GILT"
+  },
+  {
+  "symbol": "NV20IETF",
+  "name": "ICICIPruNV20ETF"
+  },
+  {
+  "symbol": "MIDSELIETF",
+  "name": "ICICIPruMidcapSelETF"
+  },
+  {
+  "symbol": "LTGILTBEES",
+  "name": "NIPINDETFLONGTERMGILT"
+  },
+  {
+  "symbol": "IDFNIFTYET",
+  "name": "BANDHANAMC-IDFNIFTYET"
+  },
+  {
+  "symbol": "AXISNIFTY",
+  "name": "AXISAMC-AXISNIFTY"
+  },
+  {
+  "symbol": "LOWVOLIETF",
+  "name": "ICICIPruNiftyLowvol30"
+  },
+  {
+  "symbol": "UTINEXT50",
+  "name": "UTIAMC-UTINEXT50"
+  },
+  {
+  "symbol": "ICICIB22",
+  "name": "ICICIPRAMC-BHARATIWIN"
+  },
+  {
+  "symbol": "LIQUIDETF",
+  "name": "DSPAMC-LIQUIDETF"
+  },
+  {
+  "symbol": "BSE500IETF",
+  "name": "ICICIPRAMC-ICICI500"
+  },
+  {
+  "symbol": "NEXT50IETF",
+  "name": "ICICIPRAMC-ICICINXT50"
+  },
+  {
+  "symbol": "LIQUIDIETF",
+  "name": "ICICIPRAMC-ICICILIQ"
+  },
+  {
+  "symbol": "NIFTYETF",
+  "name": "MIRAEAMC-MAN50ETF"
+  },
+  {
+  "symbol": "SBIETFQLTY",
+  "name": "SBIAMC-SBIETFQLTY"
+  },
+  {
+  "symbol": "ABSLNN50ET",
+  "name": "BIRLASLAMC-ABSLNN50ET"
+  },
+  {
+  "symbol": "NETF",
+  "name": "TATAAML-NETF"
+  },
+  {
+  "symbol": "MID150BEES",
+  "name": "NIPINDETFMIDCAP150"
+  },
+  {
+  "symbol": "UTISXN50",
+  "name": "UTIAMC-UTISXN50"
+  },
+  {
+  "symbol": "IBMFNIFTY",
+  "name": "IBULLSAMC-IBMFNIFTY"
+  },
+  {
+  "symbol": "BANKIETF",
+  "name": "ICICIPRAMC-IPRU5008"
+  },
+  {
+  "symbol": "PVTBANIETF",
+  "name": "ICICIPRAMC-ICICIBANKP"
+  },
+  {
+  "symbol": "NPBET",
+  "name": "TATAAML-NPBET"
+  },
+  {
+  "symbol": "ABSLBANETF",
+  "name": "BIRLASLAMC-ABSLBANETF"
+  },
+  {
+  "symbol": "EBBETF0423",
+  "name": "EDELAMC-EBBETF0423"
+  },
+  {
+  "symbol": "EBBETF0430",
+  "name": "EDELAMC-EBBETF0430"
+  },
+  {
+  "symbol": "MIDCAPIETF",
+  "name": "ICICIPRAMC-ICICIM150"
+  },
+  {
+  "symbol": "NEXT50",
+  "name": "MIRAEAMC-MANXT50"
+  },
+  {
+  "symbol": "ITBEES",
+  "name": "NIPINDETFIT"
+  },
+  {
+  "symbol": "EBBETF0425",
+  "name": "EDELAMC-EBBETF0425"
+  },
+  {
+  "symbol": "EBBETF0431",
+  "name": "EDELAMC-EBBETF0431"
+  },
+  {
+  "symbol": "ALPL30IETF",
+  "name": "ICICIPRAMC-ICICIALPLV"
+  },
+  {
+  "symbol": "ITIETF",
+  "name": "ICICIPRAMC-ICICITECH"
+  },
+  {
+  "symbol": "HDFCNIFBAN",
+  "name": "HDFCAMC-HDFCNIFBAN"
+  },
+  {
+  "symbol": "UTIBANKETF",
+  "name": "UTIAMC-UTIBANKETF"
+  },
+  {
+  "symbol": "SBIETFIT",
+  "name": "SBIAMC-SBIETFIT"
+  },
+  {
+  "symbol": "SBIETFPB",
+  "name": "SBIAMC-SBIETFPB"
+  },
+  {
+  "symbol": "AXISBNKETF",
+  "name": "AXISAMC-AXISBNKETF"
+  },
+  {
+  "symbol": "SDL24BEES",
+  "name": "NIPPONINDIA-NIMFXX"
+  },
+  {
+  "symbol": "ESG",
+  "name": "MIRAEAMC-MAESGETF"
+  },
+  {
+  "symbol": "MOGSEC",
+  "name": "MOTILALAMC-G5"
+  },
+  {
+  "symbol": "IT",
+  "name": "KOTAKMAMC-KOTAKIT"
+  },
+  {
+  "symbol": "AXISTECETF",
+  "name": "AXISAMC-AXISTECETF"
+  },
+  {
+  "symbol": "SDL26BEES",
+  "name": "RELCAPAMC-SDL26BEES"
+  },
+  {
+  "symbol": "GILT5YBEES",
+  "name": "RELCAPAMC-NETFGILT5Y"
+  },
+  {
+  "symbol": "MAFANG",
+  "name": "MIRAEAMC-MAFANG"
+  },
+  {
+  "symbol": "AXISBPSETF",
+  "name": "AXISAMC-AXISBPSETF"
+  },
+  {
+  "symbol": "AXISHCETF",
+  "name": "AXISAMC-AXISHCETF"
+  },
+  {
+  "symbol": "HEALTHIETF",
+  "name": "ICICIPRAMC-ICICIPHARM"
+  },
+  {
+  "symbol": "PHARMABEES",
+  "name": "NIPPONAMC-NETFPHARMA"
+  },
+  {
+  "symbol": "SBIETFCON",
+  "name": "SBIAMC-SBIETFCON"
+  },
+  {
+  "symbol": "BFSI",
+  "name": "MIRAEAMC-MAFSETF"
+  },
+  {
+  "symbol": "FMCGIETF",
+  "name": "ICICIPRAMC-ICICIFMCG"
+  },
+  {
+  "symbol": "AXISCETF",
+  "name": "AXISAMC-AXISCETF"
+  },
+  {
+  "symbol": "MASPTOP50",
+  "name": "MIRAEAMC-MASPTOP50"
+  },
+  {
+  "symbol": "BSLSENETFG",
+  "name": "BIRLASLAMC-BSLSENETFG"
+  },
+  {
+  "symbol": "HEALTHY",
+  "name": "BIRLASLAMC-HEALTHY"
+  },
+  {
+  "symbol": "CONSUMIETF",
+  "name": "ICICIPRAMC-ICICICONSU"
+  },
+  {
+  "symbol": "TECH",
+  "name": "BIRLASLAMC-TECH"
+  },
+  {
+  "symbol": "EQUAL50ADD",
+  "name": "DSPAMC-DSPNEWETF"
+  },
+  {
+  "symbol": "MAHKTECH",
+  "name": "MIRAEAMC-MAHKTECH"
+  },
+  {
+  "symbol": "BBETF0432",
+  "name": "EDELAMC-BBETF0432"
+  },
+  {
+  "symbol": "ALPHA",
+  "name": "KOTAKMAMC-KOTAKALPHA"
+  },
+  {
+  "symbol": "MONQ50",
+  "name": "MOTILALAMC-MONQ50"
+  },
+  {
+  "symbol": "NIFTY50ADD",
+  "name": "DSPAMC-DSPN50ETF"
+  },
+  {
+  "symbol": "MIDQ50ADD",
+  "name": "DSPAMC-DSPQ50ETF"
+  },
+  {
+  "symbol": "AUTOIETF",
+  "name": "ICICIPRAMC-ICICIAUTO"
+  },
+  {
+  "symbol": "AUTOBEES",
+  "name": "NIPPONAMC-NETFAUTO"
+  },
+  {
+  "symbol": "SILVERIETF",
+  "name": "ICICIPRAMC-ICICISILVE"
+  },
+  {
+  "symbol": "MAKEINDIA",
+  "name": "MIRAEAMC-MAMFGETF"
+  },
+  {
+  "symbol": "SILVER",
+  "name": "BIRLASLAMC-SILVER"
+  },
+  {
+  "symbol": "MIDCAP",
+  "name": "KOTAKMAMC-KOTAKMID50"
+  },
+  {
+  "symbol": "SILVERBEES",
+  "name": "NIPPONAMC-SILVERBEES"
+  },
+  {
+  "symbol": "MOMOMENTUM",
+  "name": "MOTILALAMC-MOMOMENTUM"
+  },
+  {
+  "symbol": "GSEC5IETF",
+  "name": "ICICIPRAMC-ICICI5GSEC"
+  },
+  {
+  "symbol": "MIDCAPETF",
+  "name": "MIRAEAMC-MAM150ETF"
+  },
+  {
+  "symbol": "LOWVOL1",
+  "name": "KOTAKMAMC-KOTAKLOVOL"
+  },
+  {
+  "symbol": "MOLOWVOL",
+  "name": "MOTILALAMC-MOLOWVOL"
+  },
+  {
+  "symbol": "TNIDETF",
+  "name": "TATAAML-TNIDETF"
+  },
+  {
+  "symbol": "MOHEALTH",
+  "name": "MOTILALAMC-MOHEALTH"
+  },
+  {
+  "symbol": "CONS",
+  "name": "KOTAKMAMC-KOTAKCONS"
+  },
+  {
+  "symbol": "MOM30IETF",
+  "name": "ICICIPRAMC-ICICIMOM30"
+  },
+  {
+  "symbol": "HDFCNEXT50",
+  "name": "HDFCAMC-HDFCNEXT50"
+  },
+  {
+  "symbol": "HDFCNIF100",
+  "name": "HDFCAMC-HDFCNIF100"
+  },
+  {
+  "symbol": "MNC",
+  "name": "KOTAKMAMC-KOTAKMNC"
+  },
+  {
+  "symbol": "MOMENTUM",
+  "name": "BIRLASLAMC-MOMENTUM"
+  },
+  {
+  "symbol": "NIFTYQLITY",
+  "name": "BIRLASLAMC-NIFTYQLITY"
+  },
+  {
+  "symbol": "INFRAIETF",
+  "name": "ICICIPRAMC-ICICIINFRA"
+  },
+  {
+  "symbol": "SILVERADD",
+  "name": "DSPAMC-DSPSILVETF"
+  },
+  {
+  "symbol": "MOQUALITY",
+  "name": "MOTILALAMC-MOQUALITY"
+  },
+  {
+  "symbol": "MOVALUE",
+  "name": "MOTILALAMC-MOVALUE"
+  },
+  {
+  "symbol": "HDFCSILVER",
+  "name": "HDFCAMC-HDFCSILVER"
+  },
+  {
+  "symbol": "AXISILVER",
+  "name": "AXISAMC-AXISILVER"
+  },
+  {
+  "symbol": "HDFCVALUE",
+  "name": "HDFCAMC-HDFCVALUE"
+  },
+  {
+  "symbol": "HDFCGROWTH",
+  "name": "HDFCAMC-HDFCGROWTH"
+  },
+  {
+  "symbol": "HDFCQUAL",
+  "name": "HDFCAMC-HDFCQUAL"
+  },
+  {
+  "symbol": "HDFCLOWVOL",
+  "name": "HDFCAMC-HDFCLOWVOL"
+  },
+  {
+  "symbol": "HDFCMOMENT",
+  "name": "HDFCAMC-HDFCMOMENT"
+  },
+  {
+  "symbol": "HDFCNIFIT",
+  "name": "HDFCAMC-HDFCNIFIT"
+  },
+  {
+  "symbol": "HDFCPVTBAN",
+  "name": "HDFCAMC-HDFCPVTBAN"
+  },
+  {
+  "symbol": "FINIETF",
+  "name": "ICICIPRAMC-ICICIFIN"
+  },
+  {
+  "symbol": "SILVER1",
+  "name": "KOTAKMAMC-KOTAKSILVE"
+  },
+  {
+  "symbol": "GSEC10IETF",
+  "name": "ICICIPRAMC-ICICI10GS"
+  },
+  {
+  "symbol": "EBBETF0433",
+  "name": "EDELAMC-EBBETF0433"
+  },
+  {
+  "symbol": "COMMOIETF",
+  "name": "ICICIPRAMC-ICICICOMMO"
+  },
+  {
+  "symbol": "BANKETFADD",
+  "name": "DSPAMC-DSPBANKETF"
+  },
+  {
+  "symbol": "LIQUID1",
+  "name": "KOTAKMAMC-KOTAKLIQ"
+  },
+  {
+  "symbol": "HDFCSML250",
+  "name": "HDFCAMC-HDFCSML250"
+  },
+  {
+  "symbol": "HDFCMID150",
+  "name": "HDFCAMC-HDFCMID150"
+  },
+  {
+  "symbol": "HDFCBSE500",
+  "name": "HDFCAMC-HDFCBSE500"
+  },
+  {
+  "symbol": "GOLDETF",
+  "name": "MIRAEAMC-MAGOLDETF"
+  },
+  {
+  "symbol": "ABSLLIQUID",
+  "name": "BIRLASLAMC-ABSLLIQUID"
+  },
+  {
+  "symbol": "PSUBNKIETF",
+  "name": "ICICIPRAMC-PSUBANKICI"
+  },
+  {
+  "symbol": "AXSENSEX",
+  "name": "AXISAMC-AXSENSEX"
+  },
+  {
+  "symbol": "LOWVOL",
+  "name": "MIRAEAMC-MANV30F"
+  },
+  {
+  "symbol": "GSEC10YEAR",
+  "name": "MIRAEAMC-MAGS813ETF"
+  },
+  {
+  "symbol": "SILVERETF",
+  "name": "UTIAMC-SILVERETF"
+  },
+  {
+  "symbol": "GOLDETFADD",
+  "name": "DSPAMC-DSPGOLDETF"
+  },
+  {
+  "symbol": "SILVRETF",
+  "name": "MIRAEAMC-MASILVER"
+  },
+  {
+  "symbol": "ITETFADD",
+  "name": "DSPAMC-DSPITETF"
+  },
+  {
+  "symbol": "BANKETF",
+  "name": "MIRAEAMC-BANKETF"
+  },
+  {
+  "symbol": "LIQUID",
+  "name": "MIRAEAMC-LIQUID"
+  },
+  {
+  "symbol": "PVTBANKADD",
+  "name": "DSPAMC-DSPPVBKETF"
+  },
+  {
+  "symbol": "PSUBANKADD",
+  "name": "DSPAMC-DSPPSBKETF"
+  },
+  {
+  "symbol": "SENSEXADD",
+  "name": "DSPAMC-DSPSENXETF"
+  },
+  {
+  "symbol": "QUAL30IETF",
+  "name": "ICICIPRAMC-ICICIQTY30"
+  },
+  {
+  "symbol": "HDFCLIQUID",
+  "name": "HDFCAMC-HDFCLIQUID"
+  },
+  {
+  "symbol": "NIFMID150",
+  "name": "UTIAMC-NIFMID150"
+  },
+  {
+  "symbol": "NAVINIFTY",
+  "name": "NAVIAMC-NAVINIFTY"
+  },
+  {
+  "symbol": "SENSEXETF",
+  "name": "MIRAEAMC-SENSEXETF"
+  },
+  {
+  "symbol": "MONIFTY500",
+  "name": "MOTILALAMC-MONIFTY500"
+  },
+  {
+  "symbol": "ITETF",
+  "name": "MIRAEAMC-ITETF"
+  },
+  {
+  "symbol": "ALPHAETF",
+  "name": "MIRAEAMC-ALPHAETF"
+  },
+  {
+  "symbol": "LIQUIDSBI",
+  "name": "SBIAMC-LIQUIDSBI"
+  },
+  {
+  "symbol": "EGOLD",
+  "name": "EDELAMC-EGOLD"
+  },
+  {
+  "symbol": "ESILVER",
+  "name": "EDELAMC-Esilver"
+  },
+  {
+  "symbol": "BBNPPGOLD",
+  "name": "BARODABNP-BBNPPGOLD"
+  },
+  {
+  "symbol": "TATSILV",
+  "name": "TATAAML-TATSILV"
+  },
+  {
+  "symbol": "TATAGOLD",
+  "name": "TATAAML-TATAGOLD"
+  },
+  {
+  "symbol": "LIQUIDCASE",
+  "name": "ZERODHAAMC-LIQUIDCASE"
+  },
+  {
+  "symbol": "NIFTYBETF",
+  "name": "BFAM-NIFTYBETF"
+  },
+  {
+  "symbol": "BANKBETF",
+  "name": "BFAM-BANKBETF"
+  },
+  {
+  "symbol": "NIFITETF",
+  "name": "UTIAMC-NIFITETF"
+  },
+  {
+  "symbol": "NIF10GETF",
+  "name": "UTIAMC-NIF10GETF"
+  },
+  {
+  "symbol": "NIF5GETF",
+  "name": "UTIAMC-NIF5GETF"
+  },
+  {
+  "symbol": "HEALTHADD",
+  "name": "DSPAMC-HEALTHADD"
+  },
+  {
+  "symbol": "HDFCPSUBK",
+  "name": "HDFCAMCHDFCPSUBK"
+  },
+  {
+  "symbol": "LICNMID100",
+  "name": "LICNAMC-LICNMID100"
+  },
+  {
+  "symbol": "SMALLCAP",
+  "name": "MIRAEAMC-SMALLCAP"
+  },
+  {
+  "symbol": "GOLDCASE",
+  "name": "ZERODHAAMC-GOLDCASE"
+  },
+  {
+  "symbol": "MOREALTY",
+  "name": "MOTILALAMC-MOREALTY"
+  },
+  {
+  "symbol": "MOSMALL250",
+  "name": "MOTILALAMC-MOSMALL250"
+  },
+  {
+  "symbol": "LIQUIDADD",
+  "name": "DSPAMC-LIQUIDADD"
+  },
+  {
+  "symbol": "ABSLPSE",
+  "name": "BIRLASLAMC-ABSLPSE"
+  },
+  {
+  "symbol": "MIDSMALL",
+  "name": "MIRAEAMC-MIDSMALL"
+  },
+  {
+  "symbol": "LIQUIDBETF",
+  "name": "BFAM-LIQUIDBETF"
+  },
+  {
+  "symbol": "TOP100CASE",
+  "name": "ZERODHAAMC-TOP100CASE"
+  },
+  {
+  "symbol": "MID150CASE",
+  "name": "ZERODHAAMC-MID150CASE"
+  },
+  {
+  "symbol": "BBNPNBETF",
+  "name": "BARODABNP - BBNPNBETF"
+  },
+  {
+  "symbol": "SBISILVER",
+  "name": "SBIAMC - SBISILVER"
+  },
+  {
+  "symbol": "LIQUIDSHRI",
+  "name": "SHRIRAM - LIQUIDSHRI"
+  },
+  {
+  "symbol": "ABGSEC",
+  "name": "BIRLASLAMC - ABGSEC"
+  },
+  {
+  "symbol": "EVINDIA",
+  "name": "MIRAEAMC - EVINDIA"
+  },
+  {
+  "symbol": "SBINEQWETF",
+  "name": "SBIAMC - SBINEQWETF"
+  },
+  {
+  "symbol": "OILIETF",
+  "name": "ICICIPRAMC - OILIETF"
+  },
+  {
+  "symbol": "GROWWEV",
+  "name": "GROWWAMC - GROWWEV"
+  },
+  {
+  "symbol": "GSEC10ABSL",
+  "name": "BIRLASLAMC - GSEC10ABSL"
+  },
+  {
+  "symbol": "METALIETF",
+  "name": "ICICIPRAMC - METALIETF"
+  },
+  {
+  "symbol": "MODEFENCE",
+  "name": "MOTILALAMC - MODEFENCE"
+  },
+  {
+  "symbol": "MULTICAP",
+  "name": "MIRAEAMC - MULTICAP"
+  },
+  {
+  "symbol": "TOP10ADD",
+  "name": "DSPAMC - TOP10ADD"
+  },
+  {
+  "symbol": "EBANKNIFTY",
+  "name": "EDELAMC - EBANKNIFTY"
+  },
+  {
+  "symbol": "GROWWLIQID",
+  "name": "GROWWAMC - GROWWLIQID"
+  },
+  {
+  "symbol": "MOMENTUM50",
+  "name": "MOTILALAMC - MOMENTUM50"
+  },
+  {
+  "symbol": "BANKPSU",
+  "name": "MIRAEAMC - BANKPSU"
+  },
+  {
+  "symbol": "METAL",
+  "name": "MIRAEAMC - METAL"
+  },
+  {
+  "symbol": "GROWWDEFNC\t",
+  "name": "GROWWAMC - GROWWDEFNC"
+  },
+  {
+  "symbol": "VAL30IETF",
+  "name": "ICICIPRAMC - VAL30IETF"
+  },
+  {
+  "symbol": "GROWWGOLD\t",
+  "name": "GROWWAMC - GROWWGOLD"
+  },
+  {
+  "symbol": "EMULTIMQ",
+  "name": "EDELAMC - EMULTIMQ"
+  },
+  {
+  "symbol": "LIQUIDPLUS",
+  "name": "MIRAEAMC - LIQUIDPLUS"
+  },
+  {
+  "symbol": "CONSUMER",
+  "name": "MIRAEAMC - CONSUMER"
+  },
+  {
+  "symbol": "ECAPINSURE",
+  "name": "EDELAMC - ECAPINSURE"
+  },
+  {
+  "symbol": "NEXT30ADD",
+  "name": "DSPAMC - NEXT30ADD"
+  },
+  {
+  "symbol": "GROWWRAIL",
+  "name": "GROWWAMC - GROWWRAIL"
+  },
+  {
+  "symbol": "UNIONGOLD",
+  "name": "UNIONAMC - UNIONGOLD"
+  },
+  {
+  "symbol": "MSCIINDIA",
+  "name": "KOTAKMAMC - MSCIINDIA"
+  },
+  {
+  "symbol": "GROWWN200",
+  "name": "GROWWAMC - GROWWN200"
+  },
+  {
+  "symbol": "NIFTY100EW",
+  "name": "KOTAKMAMC - NIFTY100EW"
+  },
+  {
+  "symbol": "AONETOTAL",
+  "name": "AONEAMC - AONETOTAL"
+  },
+  {
+  "symbol": "MOCAPITAL",
+  "name": "MOTILALAMC - MOCAPITAL"
+  },
+  {
+  "symbol": "GOLD360",
+  "name": "360ONEAMC - GOLD360"
+  },
+  {
+  "symbol": "SELECTIPO",
+  "name": "MIRAEAMC - SELECTIPO"
+  },
+  {
+  "symbol": "EQUAL200",
+  "name": "MIRAEAMC - EQUAL200"
+  },
+  {
+  "symbol": "CASHIETF",
+  "name": "ICICIPRAMC - CASHIETF"
+  },
+  {
+  "symbol": "AXISVALUE",
+  "name": "AXISAMC - AXISVALUE"
+  },
+  {
+  "symbol": "SILVERCASE",
+  "name": "ZERODHAAMC - SILVERCASE"
+  },
+  {
+  "symbol": "SBIBPB",
+  "name": "SBIAMC - SBIBPB"
+  }
+]
